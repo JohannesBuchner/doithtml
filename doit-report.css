@@ -1,0 +1,25 @@
+div.progress {
+  width: 80%;
+  font-size: xx-small;
+  font-family: monospace;
+}
+span.progress {
+}
+.progress a {
+  text-decoration: none;
+  color: black;
+}
+.progress uptodate {
+  text-decoration: none;
+  color: lime;
+}
+.progress a {
+  text-decoration: none;
+  color: black;
+}
+.progress a {
+  text-decoration: none;
+  color: black;
+}
+
+
